@@ -1,0 +1,49 @@
+# Java
+target/
+*.jar
+*.war
+*.ear
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+
+# Upload folders
+uploads/
+temp/
+
+# Executables
+*.exe
+ffmpeg.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
